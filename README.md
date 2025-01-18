@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">1. Clone the repository: git clone https://github.com/TomaszBielicki/nextjs-event-project<br>2. Navigate to the project directory: cd nextjs-event-project<br>3. Install dependencies: npm install<br>4. Start the development server: npm run dev<br>5.Open your browser and go to: http://localhost:3000</p>
+<p align="left">1. Clone the repository: git clone https://github.com/TomaszBielicki/nextjs-event-project<br>2. Navigate to the project directory: cd nextjs-event-project<br>3. Install dependencies: npm install<br>4. Start the development server: npm run dev<br>5. Open your browser and go to: http://localhost:3000</p>
 
 ###
 
